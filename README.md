@@ -7,10 +7,10 @@ This is a density plot of 14 days of human activity in South Africa. It's visual
 ![ZAF raw viz](Figures/South-Africa-raw-data-visualize.png)
 ## Daily trip metrics of Nigeria
 The measurements are averaged at the Nigeria national level and cover the period 01 January to 25 April 2020, demonstrating the overall mobility changes in Nigeria at the beginning of the pandemic. 
-![trip metrics](Figures/Figure 4.png)
+![trip metrics](Figures/Figure-4.png)
 ## Daily trip metrics of Nigeria by wealth group
 Visualise the human mobility trends in percentage changes when compared with the January average. The statistics are reported for three different groups of states in Nigeria. The grouping was based on the groups’ relative wealth according to RWI percentile rankings. Two thresholds for RWI (i.e. 0.33 and 0.66) were selected to divide the states into three groups of equal sample sizes. Details can be found in the paper: https://sajs.co.za/article/view/14727
 ### Daily trips/person
-![income 1](Figures/Figure 5(a).png)
+![income 1](Figures/Figure-5(a).png)
 ### Daily miles/person
-![income 2](Figures/Figure 5(b).png)
+![income 2](Figures/Figure-5(b).png)
