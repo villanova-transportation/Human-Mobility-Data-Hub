@@ -4,7 +4,7 @@ Data user guides and South Africa & Nigeria Datasets (human mobility metrics and
 The knowledge transfer between the INFORM-Africa team and Villanova graduate transportation engineering research group will improve the understanding of modeling personal trips data, geospatial analysis, and the influence of mobility on epidemiology & public health. 
 ## Human activity in South Africa
 This is a density plot of 14 days of human activity in South Africa. It's visualized by plotting location-based service data on the map. 
-![ZAF raw viz]()
+![ZAF raw viz](Figures/South-Africa-raw-data-visualize.png)
 ## Daily trip metrics of Nigeria
 The measurements are averaged at the Nigeria national level and cover the period 01 January to 25 April 2020, demonstrating the overall mobility changes in Nigeria at the beginning of the pandemic. 
 ![trip metrics](https://github.com/villanova-transportation/Human-Mobility-Data/blob/c17d963ff2cf6f4901c68460531ed45417c5d626/Figures/Figure%204.png)
