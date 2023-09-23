@@ -1,5 +1,5 @@
 # 2020 Nigeria mobility dataset
-This folder contains one folder: "State-Origin-daily" and one file: "Nigeria-dictionary.xlsx". 
+This folder contains two folders: "State-Origin-daily" and "State-Origin-Destination-Daily" with two corresponding dictionaries: "State-Origin-Daily-Dictionary.xlsx" and "State-Origin-Destination-Daily-Dictionary.xlsx"
 A trip is defined by movement between two point in space. These points have been named origin (O) and destination (D)
 The origin is the starting point of a trip while the destination is the end point of that trip. 
 The Nigeria dataset was group by origin only. 
