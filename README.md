@@ -1,7 +1,7 @@
 # Human Mobility Data Hub
-The human mobility data repository is for the INFORM_Africa team members and collaborators. 
-Data user guides and South Africa & Nigeria Datasets (human mobility metrics and public health) have been included. 
-The knowledge transfer between the INFORM-Africa team and Villanova graduate transportation engineering research group will improve the understanding of modeling personal trips data, geospatial analysis, and the influence of mobility on epidemiology & public health. 
+This human mobility data repository is for the INFORM-Africa team members and collaborators. 
+Data dictionaries and South Africa & Nigeria Datasets (human mobility metrics and public health) have been included. 
+The knowledge transfer between the INFORM-Africa team and Villanova University Nova-Mobility Lab will improve the understanding of modeling personal trips data, geospatial analysis, and the influence of mobility on epidemiology & public health. 
 ## Human activity in South Africa
 This is a density plot of 14 days of human activity in South Africa. It's visualized by plotting location-based service data on the map. 
 ![ZAF raw viz](Figures/South-Africa-raw-data-visualize.png)
