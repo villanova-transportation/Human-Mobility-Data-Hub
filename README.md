@@ -2,6 +2,25 @@
 This human mobility data repository is for the INFORM-Africa team members and collaborators. 
 Data dictionaries and South Africa & Nigeria Datasets (human mobility metrics and public health) have been included. 
 The knowledge transfer between the INFORM-Africa team and Villanova University Nova-Mobility Lab will improve the understanding of modeling personal trips data, geospatial analysis, and the influence of mobility on epidemiology & public health. 
+
+## References
+**If you find the data useful for your research, please cite our [paper](https://sajs.co.za/article/view/14727).**
+```
+@article{luoRevealingHumanMobility2023,
+  title = {Revealing Human Mobility Trends during the {{SARS-CoV-2}} Pandemic in {{Nigeria}} via a Data-Driven Approach},
+  author = {Luo, Weiyu and Xiong, Chenfeng and Wan, Jiajun and Feng, Ziteng and Ayorinde, Olawole and Blanco, Natalia and Charurat, Man and Naranbhai, Vivek and Riley, Christina and Winters, Anna and {Murtala-Ibrahim}, Fati and Abimiku, Alash'le},
+  year = {2023},
+  month = jun,
+  journal = {South African Journal of Science},
+  volume = {119},
+  number = {5/6},
+  issn = {1996-7489},
+  doi = {10.17159/sajs.2023/14727},
+  urldate = {2023-06-27},
+  abstract = {We employed emerging smartphone-based location data and produced daily human mobility measurements using Nigeria as an application site. A data-driven analytical framework was developed for rigorously producing such measures using proven location intelligence and data-mining algorithms. Our study demonstrates the framework at the beginning of the SARS-CoV-2 pandemic and successfully quantifies human mobility patterns and trends in response to the unprecedented public health event. Another highlight of the paper is the assessment of the effectiveness of mobility-restricting policies as key lessons learned from the pandemic. We found that travel bans and federal lockdown policies failed to restrict trip-making behaviour, but had a significant impact on distance travelled. This paper contributes a first attempt to quantify daily human travel behaviour, such as trip-making behaviour and travelling distances, and how mobility-restricting policies took effect in sub-Saharan Africa during the pandemic. This study has the potential to enable a wide spectrum of quantitative studies on human mobility and health in sub-Saharan Africa using well-controlled, publicly available large data sets.},
+  langid = {english},
+}
+```
 ## Human activity in South Africa
 This is a density plot of 14 days (01 April 2020 to 14 April 2020) of human activity in South Africa. In the above 14 days, over 74,000,000 of sightings from about 903,000 devices were observed. Among the sightings, approx. 685,000 trips were identified.  
 ![ZAF raw viz](Figures/South-Africa-raw-data-visualize.png)
