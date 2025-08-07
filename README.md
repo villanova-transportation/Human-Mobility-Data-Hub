@@ -1,7 +1,7 @@
 # Human Mobility Data Hub
 This human mobility data repository is for the INFORM-Africa team members and collaborators. 
 Data dictionaries and South Africa & Nigeria Datasets (human mobility metrics and public health) have been included. 
-The knowledge transfer between the INFORM-Africa team and Villanova University Nova-Mobility Lab will improve the understanding of modeling personal trips data, geospatial analysis, and the influence of mobility on epidemiology & public health. 
+The knowledge transfer between the INFORM-Africa team and Villanova University Nova-Mobility Lab will improve the understanding of modeling personal trips data, geospatial analysis, and the influence of mobility on epidemiology & public health.  
 
 ## References
 **If you find the data useful for your research, please cite our [paper](https://sajs.co.za/article/view/14727).**
